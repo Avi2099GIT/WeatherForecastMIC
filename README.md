@@ -11,6 +11,8 @@ Improving user engagement through weather forecasts.
 Efficient integration of external APIs.
 
 
+---------
+
 
 
 Use Cases:
@@ -26,6 +28,7 @@ Agricultural and farming sector: Assisting farmers with farming decisions based 
 Transportation and logistics industry: Planning routes and operations considering weather factors.
 
 
+---------
 
 
 -GitHub Copilot accelerates development by generating code snippets for API usage, saving time and effort in constructing requests to the OpenWeatherMap API.

@@ -1,2 +1,4 @@
 # WeatherForecastMIC
-Command Line Interface program using OpenWeatherMap API to forecast weather of cities
+The project aims to develop a command-line tool that fetches and displays the current weather forecast for a specified city. Using the OpenWeatherMap API and Python, the tool will retrieve weather data and parse it to extract relevant details such as temperature, humidity, and wind speed. GitHub Copilot will be utilized to assist with API usage, data parsing, and error handling. Users will input the city name through the command line, triggering a request to the API. The tool will then process and present the weather information in a user-friendly format. GitHub Copilot's AI-powered code completion will enhance development productivity by generating code snippets for API requests, response handling, and error management. The project's outcome will showcase effective API integration, data parsing techniques, and the utilization of GitHub Copilot to streamline the development process.
+![image](https://github.com/Avi2099GIT/WeatherForecastMIC/assets/129614979/d42950b5-4702-4d55-8913-7a0414abbf49)
+

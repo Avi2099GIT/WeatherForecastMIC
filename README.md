@@ -7,7 +7,7 @@ Business Challenges:
 Providing real-time weather information to users.
 Improving user engagement through weather forecasts.
 Efficient integration of external APIs.
-![image](https://github.com/Avi2099GIT/WeatherForecastMIC/assets/129614979/4d08314a-606b-486b-947d-f39828401075)
+
 
 
 
@@ -18,7 +18,7 @@ Outdoor events and activities: Informing participants about weather conditions.
 Personal planning: Helping individuals make informed decisions based on weather forecasts.
 Agricultural and farming sector: Assisting farmers with farming decisions based on weather conditions.
 Transportation and logistics industry: Planning routes and operations considering weather factors.
-![image](https://github.com/Avi2099GIT/WeatherForecastMIC/assets/129614979/713f4a19-a4d0-4728-bf51-5acc82d81ced)
+
 
 
 

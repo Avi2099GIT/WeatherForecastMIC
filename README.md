@@ -5,7 +5,9 @@ The project aims to develop a command-line tool that fetches and displays the cu
 Business Challenges:
 
 Providing real-time weather information to users.
+
 Improving user engagement through weather forecasts.
+
 Efficient integration of external APIs.
 
 
@@ -14,18 +16,26 @@ Efficient integration of external APIs.
 Use Cases:
 
 Travel and tourism industry: Providing weather forecasts for travel destinations.
+
 Outdoor events and activities: Informing participants about weather conditions.
+
 Personal planning: Helping individuals make informed decisions based on weather forecasts.
+
 Agricultural and farming sector: Assisting farmers with farming decisions based on weather conditions.
+
 Transportation and logistics industry: Planning routes and operations considering weather factors.
 
 
 
 
 -GitHub Copilot accelerates development by generating code snippets for API usage, saving time and effort in constructing requests to the OpenWeatherMap API.
+
 -With Copilot's assistance, data parsing becomes easier as it suggests code snippets for extracting key weather details from the API response, such as temperature and weather conditions.
+
 -Copilot helps implement effective error handling by suggesting code snippets and best practices, ensuring the tool gracefully handles scenarios like invalid city names or API request issues.
+
 -By boosting productivity, Copilot generates code templates, function definitions, and code blocks, freeing up developers to focus on higher-level logic and customization for the project.
+
 -As an AI-powered assistant, Copilot aids in learning, provides contextual suggestions, and improves coding skills throughout the development process, enhancing the overall development experience.
 
 

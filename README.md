@@ -27,7 +27,7 @@ Transportation and logistics industry: Planning routes and operations considerin
 -Copilot helps implement effective error handling by suggesting code snippets and best practices, ensuring the tool gracefully handles scenarios like invalid city names or API request issues.
 -By boosting productivity, Copilot generates code templates, function definitions, and code blocks, freeing up developers to focus on higher-level logic and customization for the project.
 -As an AI-powered assistant, Copilot aids in learning, provides contextual suggestions, and improves coding skills throughout the development process, enhancing the overall development experience.
-![image](https://github.com/Avi2099GIT/WeatherForecastMIC/assets/129614979/f2b7974d-9cfc-4ccf-8320-127c43f8e62c)
+
 
 
 Thank You
